@@ -1,0 +1,103 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+
+    background-color: #202020;
+
+}
+
+.primeiro{
+
+    background-color: #7fffd4;
+    padding: 5px;
+
+}
+
+.segundo{
+
+    background-color: #0000ff;
+    padding: 20px;
+
+}
+
+.conteudo{
+
+    min-height: 100vh;
+    padding: 100px;
+
+}
+
+.card{
+
+    width: 300px;
+    background-color: #808080;
+    border-radius: 10px;
+    overflow: hidden;
+    display:inline-block;
+    margin: 100px;
+
+}
+
+.card .coracao{
+
+    width: 15px;
+    position: relative;
+    top: 25px;
+    left: 5px;
+
+}
+
+.card .fundo{
+
+    width: 100%;
+
+}
+
+.card .fotinha{
+
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+    position: relative;
+    bottom: 50px;
+    
+}
+
+.card h1{
+
+    text-align: center;
+
+}
+
+.card p{
+
+    padding: 30px;
+
+}
+
+button{
+
+    padding: 10px;
+    background-color: aqua;
+    margin: auto;
+    display: block;
+    padding: 5px;
+
+}
+
+footer{
+
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    padding: 5px;
+
+}

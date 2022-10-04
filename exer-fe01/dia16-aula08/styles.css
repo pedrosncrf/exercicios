@@ -1,0 +1,56 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+
+    background-color: #202020;
+
+}
+
+h1{
+
+    color: #f0f8ff;
+    padding: 20px;
+
+}
+
+.foto{
+
+    background-image: url(https://s2.glbimg.com/S7FJgGNQZ5TorW_xdxoMYmpIhHY=/e.glbimg.com/og/ed/f/original/2018/04/26/vingadores-guerra-infinita.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+h2{
+
+    color: #0000ff;
+    padding: 10px;
+
+}
+
+p{
+
+    color: #f0f8ff;
+    padding: 10px;
+
+}
+
+h3{
+
+    color: #ffff00;
+
+}
+
+a{
+
+    text-decoration: none;
+
+}
